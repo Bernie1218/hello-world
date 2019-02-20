@@ -1,4 +1,6 @@
 # hello-world
 This is my first repository in the github
 
-Hi,I don't know why I changed the readme file for master
+Hi,humans:
+It's Bernie here, I take a English name for myself.
+
